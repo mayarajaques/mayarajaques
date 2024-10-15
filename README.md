@@ -10,7 +10,7 @@
  ##
   ##
  
- # EN- Hi, it's great to see you here! Get to know a little about me! 💜  💜
+ # EN- Hi, it's great to see you here! Get to know a little about me! 💜 
   ##
 
 - 👋 Hi, I’m @mayarajaques! I have 10 years of experience as a Support Analyst and recently shifted my focus to Full Stack Development.
